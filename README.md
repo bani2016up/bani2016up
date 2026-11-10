@@ -11,6 +11,16 @@
 
 - 📫 How to reach me **bani2016up@gmail.com**
 
+## Current research
+
+**Detecting Anomalous Nodes in Graph Time Series**
+
+Third-year course project at HSE University, Data Science and Business Analytics, 2026–2027.
+
+Investigating how to identify anomalous nodes from the temporal behavior of interconnected quantities when internal node computations are unknown.
+
+Current tooling includes a React/WebGL graph editor, a Python execution engine, and local sensitivity analysis through controlled black-box queries. The anomaly detection method and experimental evaluation are still in development.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/surf.dan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surf.dan" height="30" width="40" /></a>
