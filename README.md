@@ -30,4 +30,4 @@ Current tooling includes a React/WebGL graph editor, a Python execution engine, 
 
 I work mainly with **Python, Rust, and TypeScript**, across backend services, React interfaces, and Linux/Docker infrastructure.
 
-[Email](mailto:bani2016up@gmail.com) · [AIMES](https://aimestech.com/)
+[Website](https://prfnv.com/) · [Email](mailto:bani2016up@gmail.com) · [AIMES](https://aimestech.com/)
