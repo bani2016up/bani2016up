@@ -20,14 +20,15 @@ My work spans backend architecture, AI workflows, graph-based computation, and t
 
 **Detecting Anomalous Nodes in Graph Time Series**
 
-Third-year course project at HSE University, Data Science and Business Analytics, 2026–2027.
+Investigating how to detect anomalous nodes from graph structure and observed time series when the computations inside each node are unknown.
 
-Investigating how to identify anomalous nodes from the temporal behavior of interconnected quantities when internal node computations are unknown.
+## Technical stack
 
-Current tooling includes a React/WebGL graph editor, a Python execution engine, and local sensitivity analysis through controlled black-box queries. The anomaly detection method and experimental evaluation are still in development.
-
-## Stack
-
-I work mainly with **Python, Rust, and TypeScript**, across backend services, React interfaces, and Linux/Docker infrastructure.
+- **Languages:** Python, Rust, TypeScript
+- **Backend:** FastAPI, Axum, SQLAlchemy
+- **Data & messaging:** PostgreSQL, MongoDB, Redis, RabbitMQ
+- **AI & numerical computing:** LLM integration, NumPy, pandas, multi-objective optimization with pymoo
+- **Frontend:** React
+- **Infrastructure:** Linux, Docker, CI/CD
 
 [Website](https://prfnv.com/) · [Email](mailto:bani2016up@gmail.com) · [AIMES](https://aimestech.com/)
